@@ -1,1 +1,1 @@
-# frontendkz.github.io
+# Inviter for kazakhstani frontend developers' slack chat
