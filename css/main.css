@@ -36,3 +36,6 @@ input.button-success[type="submit"]:disabled:hover {
 .inviter h3 {
   color: #fff;
 }
+.inviter input {
+  margin-bottom: 0;
+}
