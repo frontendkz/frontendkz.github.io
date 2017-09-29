@@ -1,1 +1,1 @@
-# Inviter for kazakhstani frontend developers' slack chat
+# Frontend Kazakhstan community website
